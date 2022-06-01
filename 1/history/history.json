@@ -1,0 +1,1 @@
+{"eae9a72130971a9a3381c44c238f36e5":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"5885773d82f9091f","reportUrl":"https://speet10.github.io/TelexTestCI/1//#testresult/5885773d82f9091f","status":"passed","time":{"start":1654096172862,"stop":1654096177796,"duration":4934}}]}}
